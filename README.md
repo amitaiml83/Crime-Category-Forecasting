@@ -36,7 +36,8 @@ Applied feature engineering and hyperparameter tuning techniques to maximize mod
    - Accuracy 94.1%
 4. **Random Forest**
    - Accuracy 93.8%
-5.**LightGBM**
+   
+5. **LightGBM**
    - Accurcay 94.9%
   
 # Technologies Used
