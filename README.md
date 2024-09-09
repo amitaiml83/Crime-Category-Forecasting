@@ -1,6 +1,6 @@
 # Crime-Category-Forecasting
 
-# Overview
+# Introduction
 This dataset offers a comprehensive snapshot of criminal activities within the city. It encompasses various aspects of each incident, including date, time, location, victim demographics, and more.
 
 By leveraging machine learning techniques, participants can analyze this rich dataset to predict crime categories, enhance law enforcement strategies, and bolster public safety measures.
