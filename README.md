@@ -9,7 +9,7 @@ My task is straightforward: Develop models capable of accurately predicting the 
 
 # 🚀 Project Overview 🚀
 
-**In my latest project, I tackled the challenge of predicting user ratings of food in restaurants. Leveraging a comprehensive workflow, I conducted a thorough data overview, delved into exploratory data analysis (EDA), and rigorously cleaned and preprocessed the dataset.**
+**In my latest project, I tackled the challenge of forecasting crime category in city. Leveraging a comprehensive workflow, I conducted a thorough data overview, delved into exploratory data analysis (EDA), and rigorously cleaned and preprocessed the dataset.**
 
 - Comprehensive Workflow: Carried out a detailed project workflow that included data overview, exploratory data analysis (EDA), and rigorous data cleaning and preprocessing.
 - Data Preprocessing: Applied Simple Imputer for filling missing values. Used StandardScaler and MinMaxScaler for scaling numerical data. Leveraged Pipeline and Column Transformer API for efficient processing.  
